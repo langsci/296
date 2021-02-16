@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Empirical studies in translation and discourse",
-		"authors": [{"name": "Mario Bisiada"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2020-11-25T14:10:41.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Mario Bisiada"}], "title": "Empirical studies in translation and discourse", "publishedAt": "2020-11-25T14:10:41.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "Empirical studies in translation and discourse", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2021-02-16T10:34:38.360942", "authors": [{"name": "Mario Bisiada"}]}]}
